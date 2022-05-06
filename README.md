@@ -1,6 +1,6 @@
 # Kaden Scroggins
 * Fall 2021 graduate with B.S. in C.S. and a minor in Business
-  - First year at Oklahoma State
+  - First year at Oklahoma State University
   - Finished at Northeastern State University
 * Full undergrad done working mostly with Java
 * Some undergrad done working with C#, C++, HTML, JS, PHP, SQL, VB
