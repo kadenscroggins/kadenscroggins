@@ -21,3 +21,8 @@
   - Helped my supervisor with keeping up a tidy inventory system for all of our all-in-ones leased from Dell
   - Performed first-step troubleshooting with library patrons having computer troubles, and showed them how to use technology provided by the University
   - Branched out with other library student workers to perform general circulation duties whenever I didn't have much to do
+
+<!--
+TODO:
+* Add goals section
+-->
