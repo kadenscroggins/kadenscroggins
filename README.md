@@ -2,7 +2,7 @@
 * Fall 2021 graduate with B.S. in Computer Science and a minor in Business
   - First year at Oklahoma State University
   - Finished at Northeastern State University
-  - Overall GPA: 3.89 - summa cum laude
+  - Overall GPA: 3.89
 * Full undergrad done working mostly with Java
 * Some undergrad done working with C#, C++, HTML, JS, PHP, SQL, VB
 * Dabbled in Rust, Python from personal interest
