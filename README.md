@@ -3,8 +3,8 @@
   - First two years at Oklahoma State University
   - Finished at Northeastern State University
   - Graduated with honors. Overall GPA: 3.89
-* Full undergrad done working mostly with Java
-* Some undergrad done working with C#, C++, HTML, JS, PHP, SQL, VB
+* Majority of coursework done programming in Java
+* Some courses working with C#, C++, HTML, JS, PHP, SQL, VB
 * Dabbled in Rust, Python from personal interest
 * Relevant Coursework:
   - Computer Science I & II, Object Oriented Programming, Basic Computer Architecture, Operating Systems, Advanced Java, App. Dev. in C++, Data Structures, Database Management Systems, Object Based Visual Programming, Web Applications, Software Engineering
