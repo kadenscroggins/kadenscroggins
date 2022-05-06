@@ -1,4 +1,4 @@
-## Undergrad Experience (check out my [undergraduate-code](https://github.com/kadenscroggins/undergrad-code) repository)
+## Undergrad Experience (check out my [undergrad-code](https://github.com/kadenscroggins/undergrad-code) repository)
 * Fall 2021 graduate with B.S. in Computer Science and a minor in Business
   - First two years at Oklahoma State University
   - Finished at Northeastern State University
