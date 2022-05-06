@@ -1,6 +1,6 @@
 # Kaden Scroggins
 * Fall 2021 graduate with B.S. in Computer Science and a minor in Business
-  - First year at Oklahoma State University
+  - First two years at Oklahoma State University
   - Finished at Northeastern State University
   - Overall GPA: 3.89
 * Full undergrad done working mostly with Java
