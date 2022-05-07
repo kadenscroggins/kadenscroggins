@@ -4,7 +4,7 @@
   - Finished at Northeastern State University
   - Graduated with honors. Overall GPA: 3.89
 * Majority of coursework done programming in Java
-* Some courses working with C#, C++, HTML, JS, PHP, SQL, VB
+* Some courses working with C++, HTML, JS, PHP, C#, VB, SQL
 * Dabbled in Rust, Python from personal interest
 * Relevant Coursework:
   - Computer Science I & II, Object Oriented Programming, Basic Computer Architecture, Operating Systems, Advanced Java, App. Dev. in C++, Data Structures, Database Management Systems, Object Based Visual Programming, Web Applications, Software Engineering
