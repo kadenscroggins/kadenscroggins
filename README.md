@@ -1,5 +1,5 @@
 ## Undergrad Experience (check out my [undergrad-code](https://github.com/kadenscroggins/undergrad-code) repository)
-* Fall 2021 graduate with B.S. in Computer Science and a minor in Business
+* Fall 2021 graduate with a B.S. in Computer Science and a minor in Business
   - First two years at Oklahoma State University
   - Finished at Northeastern State University
   - Graduated with honors. Overall GPA: 3.89
