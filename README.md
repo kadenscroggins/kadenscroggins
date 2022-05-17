@@ -16,6 +16,7 @@
   - Dealing with user access management through Ellucian Banner ERP, Microsoft Active Directory, Blackboard LMS, TeamDynamix, and more
   - Working with my team as a sort of jack-of-all-trades in our IT Enterprise Systems department.
   - Improving process flows and automating repetitive tasks wherever I can
+  - Minor work with Microsoft and Oracle SQL Servers
 * Previously employed as a Systems Services Student at the Northeastern State University John Vaughn Library
   - Employed from September 2020 - December 2021 working 20 hours per week
   - Helped my supervisor with keeping up a tidy inventory system for all of our all-in-ones leased from Dell
