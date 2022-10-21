@@ -14,7 +14,9 @@
 * Currently employed as a System Administrator at Northeastern State University
   - Employed from April 2022 - Present, working 40 hours per week
   - Dealing with user access management through Ellucian Banner ERP, Microsoft Active Directory, Blackboard LMS, TeamDynamix, and more
-  - Working with my team as a sort of jack-of-all-trades in our IT Enterprise Systems department.
+  - Configuring Single Sign-On for multiple enterprise applications with AperoCAS and QuiclLaunch, for NSU and other universities in the Oklahoma Blackboard Consortium
+  - Writing Powershell scripts for various tasks, including communicating with the Google API for user management
+  - Working with my team as a sort of jack-of-all-trades in our IT Enterprise Systems department
   - Improving process flows and automating repetitive tasks wherever I can
   - Minor work with Microsoft and Oracle SQL Servers
 * Previously employed as a Systems Services Student at the Northeastern State University John Vaughn Library
