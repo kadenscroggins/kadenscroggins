@@ -16,9 +16,9 @@
   - Provide excellent customer service to students, faculty, and staff across the entire University
 * Previously employed as a Systems Services Student at the Northeastern State University John Vaughn Library
   - Employed from September 2020 - December 2021 (20 hours per week)
-  - Helped my supervisor with keeping up a tidy inventory system for all of our all-in-ones leased from Dell
-  - Performed first-step troubleshooting with library patrons having computer troubles, and showed them how to use technology provided by the University
-  - Branched out with other library student workers to perform general circulation duties whenever I didn't have much to do
+  - Assist with maintaining a tidy inventory system for all computers and other valuable technology in the library
+  - Perform first-step troubleshooting with library patrons having computer troubles, and showed them how to use technology provided by the University
+  - Collaborate with other library student workers to perform general circulation duties
 ## Undergrad Experience (check out my [undergrad-code](https://github.com/kadenscroggins/undergrad-code) repository)
 * Fall 2021 graduate with a B.S. in Computer Science and a minor in Business
   - First two years at Oklahoma State University
