@@ -28,10 +28,7 @@
 * Some courses working with C++, HTML, JS, PHP, C#, VB, SQL
 * Dabbled in Rust, Python from personal interest
 * Relevant Coursework:
-  - Computer Science I & II, Object Oriented Programming, Basic Computer Architecture, Operating Systems, Advanced Java, App. Dev. in C++, Data Structures, Database Management Systems, Object Based Visual Programming, Web Applications, Software Engineering
-  - Principles of Information Systems
-  - Discrete Mathematics, Calculus I & II, Physics I
-<!--
-TODO:
-* Add goals section
--->
+  - **Programming**: Computer Science I & II, Object Oriented Programming, Basic Computer Architecture, Operating Systems, Advanced Java, Application Development in C++, Data Structures, Database Management Systems, Object Based Visual Programming, Web Applications, Software Engineering, Rapid Application Development
+  - **Math**: Discrete Mathematics, Calculus I & II, Physics I
+  - **IT/IS**: Principles of Information Systems
+  - **Business**: Principles of Management, Principles of Microeconomics, Business Law I, Professional and Technical Writing, Principles of Marketing
